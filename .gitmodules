@@ -5,6 +5,3 @@
 [submodule "FAIRmaterials"]
 	path = FAIRmaterials
 	url = https://github.com/cran/FAIRmaterials
-[submodule "PVplr"]
-	path = PVplr
-	url = https://github.com/cran/PVplr
