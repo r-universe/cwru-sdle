@@ -5,6 +5,9 @@
 [submodule "FAIRmaterials"]
 	path = FAIRmaterials
 	url = https://github.com/cran/FAIRmaterials
+[submodule "geospatialsuite"]
+	path = geospatialsuite
+	url = https://github.com/cwru-sdle/geospatialsuite
 [submodule "manureshed"]
 	path = manureshed
 	url = https://github.com/cwru-sdle/manureshed
